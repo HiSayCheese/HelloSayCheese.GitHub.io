@@ -2,6 +2,7 @@
 layout: post
 title: "Happy World!"
 published: true
+permalink: Happy-World 
 ---
 
 A collection of all the nice things I find on the web and in real life.
